@@ -1,1 +1,3 @@
-SUBDIRS(locator magnitudes master)
+#SUBDIRS(locator magnitudes master)
+SUBDIRS(magnitudes)
+
